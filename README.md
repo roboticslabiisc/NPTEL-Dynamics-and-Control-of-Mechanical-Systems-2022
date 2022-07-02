@@ -3,7 +3,7 @@ This repository contains all the supporting files for the NPTEL course on Dynami
 
 Link to the course :
 * [Swayam](https://onlinecourses.nptel.ac.in/noc22_me96/preview)
-* [NPTEL](https://nptel.ac.in/courses/112/108/112108298/](https://nptel.ac.in/courses/112108313)
+* [NPTEL](https://nptel.ac.in/courses/112108313)
 
 Nomenclature of MATLAB files(.m):
 
