@@ -1,5 +1,7 @@
 The tutorial video for both MATLAB® and Simulink can be found at this link - [Video](https://youtu.be/rGSpVpFXUpo)
 
+[![Everything Is AWESOME](https://img.youtube.com/vi/rGSpVpFXUpo/maxresdefault.jpg)](https://youtu.be/rGSpVpFXUpo)
+
 This folder contains the codes and files used in the video. The files have been executed in MATLAB R2022a.
 
 Please check this link for the MATLAB license provided by NPTEL for the whole duration of the course - [Link](https://onlinecourses.nptel.ac.in/noc22_me96/unit?unit=32&lesson=33)
