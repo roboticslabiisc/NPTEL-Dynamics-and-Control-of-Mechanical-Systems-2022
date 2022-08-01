@@ -1,6 +1,10 @@
-The tutorial video for both MATLAB® and Simulink can be found at this link - [Video](https://youtu.be/rGSpVpFXUpo)
+<!The tutorial video for both MATLAB® and Simulink can be found at this link - [Video](https://youtu.be/rGSpVpFXUpo)>
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/rGSpVpFXUpo/maxresdefault.jpg)](https://youtu.be/rGSpVpFXUpo)
+Tutorial videos -
+
+|[![Basics of MATLAB and Simulink](https://img.youtube.com/vi/rGSpVpFXUpo/hqdefault.jpg)](https://youtu.be/rGSpVpFXUpo)|[![Basics of Simscape](https://img.youtube.com/vi/LcYd0goujWU/hqdefault.jpg)](https://youtu.be/LcYd0goujWU)|
+|:-: |:-:|
+|[MATLAB® and Simulink](https://youtu.be/rGSpVpFXUpo)|[Simscape](https://youtu.be/LcYd0goujWU)|
 
 This folder contains the codes and files used in the video. The files have been executed in MATLAB R2022a.
 
