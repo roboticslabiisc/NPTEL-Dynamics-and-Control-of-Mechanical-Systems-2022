@@ -6,7 +6,7 @@ Tutorial videos -
 |:-: |:-:|
 |[MATLAB® and Simulink](https://youtu.be/rGSpVpFXUpo)|[Simscape](https://youtu.be/LcYd0goujWU)|
 
-This folder contains the codes and files used in the video. The files have been executed in MATLAB R2022a.
+This folder contains the codes and files used in the videos. The files have been executed in MATLAB R2022a.
 
 Please check this link for the MATLAB license provided by NPTEL for the whole duration of the course - [Link](https://onlinecourses.nptel.ac.in/noc22_me96/unit?unit=32&lesson=33)
 
