@@ -12,9 +12,11 @@ Nomenclature of MATLAB files(.m):
 
 The codes were written and run in MATLAB® R2022a. A few places in the code may need to be changed if they are run in any older version.
 
-<em> The tuorial videos and codes will be updated soon.</em>
+Tutorial videos:
+1. [MATLAB® and Simulink](https://youtu.be/rGSpVpFXUpo)
+2. [Simscape](https://youtu.be/LcYd0goujWU)
 
 Main author(s) :
 * [Soumya Kanti Mahapatra](https://sites.google.com/view/skmahapatra) ([GitHub](https://github.com/skmahapatra))
-* Pramod Pal              
+* Pramod Pal ([Github](https://github.com/ppalcx))              
 * [Yogesh Pratap Singh](http://yogeshpratapsingh.in)
